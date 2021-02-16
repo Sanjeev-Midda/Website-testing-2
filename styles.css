@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    margin: 150px;
+    color: blue;
+}
+
+.list {
+    width: 250px;
+    display: flex;
+    font-size: 22px;
+    
+}
+
+.list p {
+    margin: 90px;
+}
+
+img {
+    width:50%;
+    margin: 20px;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+footer {
+    border: 1px dotted red; 
+    padding: 50px;
+    text-align: center;
+
+}
+
+footer a {
+    color: blue;  
+    margin:50px;
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+    color: cornflowerblue;
+    font-size: 60px;
+    margin: 60px;
+    text-align: center;
+}
